@@ -9,4 +9,4 @@ Tentative de création d'un serveur ATLAS 3x3 ....
 ### - Base
 
   * Fichier serveur telecharger via [SteamCMD](https://steamdb.info/app/1006030/info/)
-  * Gestion du serveur via [AtlasServerUpdateUtility 2.4.1(http://www.phoenix125.com/AtlasServerUpdateUtil.html)
+  * Gestion du serveur via [AtlasServerUpdateUtility 2.4.1](http://www.phoenix125.com/AtlasServerUpdateUtil.html)
