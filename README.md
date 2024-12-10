@@ -2,6 +2,7 @@
 Tentative de création d'un serveur ATLAS 3x3 ....
 
 ## Infos
+  * Serveur créer sur Windows 10 ou Windows Server 2025
 
 ## Contenu
 
